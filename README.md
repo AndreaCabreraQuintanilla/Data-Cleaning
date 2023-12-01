@@ -1,4 +1,4 @@
-# Proceso ETL
+# Data Cleaning
 ## Integrantes:
 Andrea Cabrera y Ana Guardia
 
